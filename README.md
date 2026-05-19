@@ -1,2 +1,3 @@
 # mint
-My first Git repository
+My first Git repository.
+Auther - Aurthor Morgan
